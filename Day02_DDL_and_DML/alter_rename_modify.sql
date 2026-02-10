@@ -1,0 +1,11 @@
+USE CodeWithHarry;
+
+RENAME TABLE users TO programmers;
+RENAME TABLE programmers TO users;
+
+ALTER TABLE users ADD COLUMN is_active BOOLEAN DEFAULT TRUE;
+ALTER TABLE users DROP COLUMN is_active;
+
+ALTER TABLE users MODIFY COLUMN name VARCHAR(150);
+ALTER TABLE users MODIFY COLUMN email VARCHAR(100) AFTER id;
+ALTER TABLE users MODIFY COLUMN date_of_birth DATETIME FIRST;
