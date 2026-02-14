@@ -1,5 +1,16 @@
-# SQL-Journey
-Daily SQL practice and learning, starting from basics and building towards Data Analyst readiness.
+# SQL Journey 🚀
+
+This repository documents my structured SQL learning journey.
+
+## Structure
+Each day includes:
+- SQL queries practiced
+- Concepts learned
+- Key takeaways
+
+Consistency > Motivation.
+
 ## Progress Log 
 - Day-1 : Created Database , users table (a basic table with multiple columns) and practiced basic SELECT Queries.
 - Day-2 : DDL and DML operations with filtering and sorting.
+- Day-3 : Constraints & SQL Functions 
