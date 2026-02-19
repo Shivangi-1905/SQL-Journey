@@ -16,4 +16,6 @@ Consistency > Motivation.
 - Day-3 : Constraints & SQL Functions
 - Day 04: Understanding and implementing FOREIGN KEY constraints
 - Day 05: Implemented JOINs, UNION, UNION ALL and SELF JOIN concepts
+- Day 6: Implemented Views, Indexing strategies, Subqueries & Advanced Aggregations
+
  
