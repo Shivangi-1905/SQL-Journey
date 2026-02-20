@@ -17,5 +17,6 @@ Consistency > Motivation.
 - Day 04: Understanding and implementing FOREIGN KEY constraints
 - Day 05: Implemented JOINs, UNION, UNION ALL and SELF JOIN concepts
 - Day 6: Implemented Views, Indexing strategies, Subqueries & Advanced Aggregations
+- Day 07: Stored Procedures, Triggers and Advanced MySQL Features
 
  
