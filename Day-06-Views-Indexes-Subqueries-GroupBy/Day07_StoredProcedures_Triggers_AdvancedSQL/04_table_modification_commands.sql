@@ -1,0 +1,14 @@
+-- Add Column
+ALTER TABLE users
+ADD COLUMN city VARCHAR(100);
+
+-- TRUNCATE
+TRUNCATE TABLE users;
+
+-- CHANGE column
+ALTER TABLE users
+CHANGE COLUMN city location VARCHAR(150);
+
+-- MODIFY column
+ALTER TABLE users
+MODIFY COLUMN salary BIGINT;
